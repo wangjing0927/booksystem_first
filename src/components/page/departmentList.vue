@@ -75,7 +75,7 @@
 
 <script>
 export default {
-    name: 'baseform',
+    name: 'borrowedList',
     data() {
         return {
             options: [
